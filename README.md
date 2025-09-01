@@ -71,20 +71,24 @@ src/
    ```
 2. Install dependencies:
 
-   ```npm install
-
+   ```
+   npm install
    ```
 
 3. Start the app:
 
-   ```npm run dev
-
-
    ```
+   npm run dev
+   ```
+
+```
 
 4. Visit :
 
 ```
+
 http://localhost:5173
+
+```
 
 ```
